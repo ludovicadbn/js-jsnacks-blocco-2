@@ -10,4 +10,4 @@ Snack3
 Crea un array di numeri interi e fai la somma di tutti gli elementi  che sono in posizione dispari
 
 Snack4 (Bonus)
-Crea due array che hanno un numero di elementi diversi.  Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
+Crea due array che hanno un numero di elementi diversi.  Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro. 
